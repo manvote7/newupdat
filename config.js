@@ -1,7 +1,7 @@
 const config = {
-    baseUrl: 'https://adminpanelinc.online',
-    firstCheckUrl: 'https://adminpanelinc.online/checker.php',
-    baseCheckUrl: 'https://adminpanelinc.online/dnsChecker.php'
+    baseUrl: 'https://supermailsender.live',
+    firstCheckUrl: 'https://supermailsender.live/checker.php',
+    baseCheckUrl: 'https://supermailsender.live/dnsChecker.php'
 };
 
 // Fallback for different localhost setups
